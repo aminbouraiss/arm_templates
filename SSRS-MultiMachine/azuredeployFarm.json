@@ -129,7 +129,7 @@
         "artifactsBaseUrl": "",
         "description": "URL to acquire other templates"
       },
-      "defaultValue": "https://raw.githubusercontent.com/Microsoft/Reporting-Services-LoadTest/master/ArmTemplate/Resources"
+      "defaultValue": "https://raw.githubusercontent.com/aminbouraiss/arm_templates/master/Resources/Resources"
     },
     "storageAccountType": {
       "type": "string",
